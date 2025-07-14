@@ -17,7 +17,7 @@
 
 🌱 虽然目前还有很多不足，但我会用我所有的技能和热情不断改进它。
 
-
+![Kuang2714 Github stats](https://github-readme-stats.vercel.app/api?username=kuang2714&show_icons=true&theme=transparent)
 
 ## 技术栈
 
