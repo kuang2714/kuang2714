@@ -20,6 +20,7 @@
 ![Kuang2714 Github stats](https://github-readme-stats.vercel.app/api?username=kuang2714&show_icons=true&theme=transparent)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuang2714)](https://github.com/kuang2714/kuang2714)
 
+
 ## 技术栈
 
 <p align="left">
@@ -27,3 +28,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,less,scss,tailwind,react,nextjs,remix,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,github,java,spring,maven,python,flask,express,nodejs,nestjs,prisma,mysql,redis,vercel,docker,linux,vscode,idea,webstorm,pycharm,postman,ps" />
   </a>
 </p>
+
+
+[![Maintenance](https://img.shields.io/badge/Copyright-RedchaStudio-green)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/彬红茶QQ-2646628514-yellow)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
