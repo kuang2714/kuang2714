@@ -2,6 +2,9 @@
 
 🌈 10年，青少年，代码狂热爱好者
 
+😌 我的个人日记网站：[https://note.redcha.cn](https://note.redcha.cn)
+   这里面挺热闹的哟，欢迎互动来交流
+
 🌝 是一位广州的青少年 沙雕猎奇
 
 🏡 个人网站：[https://redcha.cn](https://redcha.cn)
