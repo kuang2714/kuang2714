@@ -1,9 +1,10 @@
 # 👋 我是 彬红茶 Redcha
 
-🌈 10年，青少年，代码狂热爱好者
+🌈 10年，青少年，代码狂热爱好者。喜欢羽毛球，手工画画。还有刷抖音哦
 
 😌 我的个人日记网站：[https://note.redcha.cn](https://note.redcha.cn)
-   这里面挺热闹的哟，欢迎互动来交流
+   
+   这里面挺热闹的哟，欢迎互动来交流！这里面有非常多网友和我一起的互动～记录了很多日常生活事情和旅游日记
 
 🌝 是一位广州的青少年 沙雕猎奇
 
@@ -21,7 +22,6 @@
 🌱 虽然目前还有很多不足，但我会用我所有的技能和热情不断改进它。
 
 ![Kuang2714 Github stats](https://github-readme-stats.vercel.app/api?username=kuang2714&show_icons=true&theme=transparent)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kuang2714)](https://github.com/kuang2714/kuang2714)
 
 
 ## 技术栈
